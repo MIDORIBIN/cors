@@ -1,0 +1,2 @@
+# cors
+nodejsでcrosを回避
