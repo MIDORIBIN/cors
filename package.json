@@ -1,0 +1,16 @@
+{
+  "name": "nodejs-cors-app",
+  "version": "0.0.1",
+  "description": "cors",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.16.3",
+    "axios": "^0.18.0"
+  },
+  "engines": {
+    "node": "9.x"
+  },
+  "license": "MIT"
+}
